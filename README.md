@@ -80,6 +80,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ---
 
-**Author:**  
-[Your Name](https://your-portfolio-link)  
-For any inquiries, feel free to reach out!
+**Authors:**  
+Pralhad R Yadawad and Pradeep Laxmanrao Pawar
+
