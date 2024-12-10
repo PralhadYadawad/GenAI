@@ -81,5 +81,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ---
 
 **Authors:**  
-Pralhad R Yadawad and Pradeep Laxmanrao Pawar
+Pralhad R Yadawad - https://sites.google.com/kletech.ac.in/genai-01fe21bec186?usp=sharing
+Pradeep Laxmanrao Pawar - https://sites.google.com/view/pradeeplpawar/home
 
